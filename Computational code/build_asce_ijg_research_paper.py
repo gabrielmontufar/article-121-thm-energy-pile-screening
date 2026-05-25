@@ -1200,6 +1200,7 @@ def make_zip() -> None:
     include_files.append(CODE / "build_asce_ijg_research_paper.py")
     include_files.append(CODE / "outputs" / "benchmark_manifest.json")
     include_files.append(BASE / "requirements.txt")
+    include_files.append(BASE / "README.md")
     include_files.append(BASE / "README_reproducibility.md")
     include_files.append(BASE / "LICENSE_CODE_MIT.txt")
     include_files.append(BASE / "LICENSE_DATA_CC_BY_4_0.txt")
