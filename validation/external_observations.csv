@@ -1,0 +1,8 @@
+case_id,variable,x_value,observed_value,unit,digitized,digitization_uncertainty,source,source_note
+lambeth_2009,head_displacement,mechanical_working_load,2.4,mm,no,0.1,public Lambeth test summary,SWL 1200 kN before heat pump.
+lambeth_2009,head_displacement,end_cooling,4.8,mm,no,0.2,public Lambeth test summary,End cooling under 1200 kN working load.
+lambeth_2009,head_displacement,end_heating,2.8,mm,no,0.2,public Lambeth test summary,End heating under 1200 kN working load.
+lambeth_2009,head_displacement,daily_cooling,4.4,mm,no,0.2,public Lambeth test summary,Daily cooling mode upper movement.
+lambeth_2009,head_displacement,daily_heating,2.8,mm,no,0.2,public Lambeth test summary,Daily heating mode lower movement.
+feng_2024,settlement_underestimation,published_scalar,48.8,percent,no,2.0,publisher abstract,Underestimation when soil coupling is ignored.
+rafai_2025,normalized_head_settlement,ten_cycles,0.124,percent,no,0.01,open article text,Normalized pile-head settlement after ten cycles.

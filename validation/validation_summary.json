@@ -1,0 +1,18 @@
+{
+  "external_sources": 8,
+  "validation_cases": 4,
+  "quantitative_cases": 3,
+  "blind_decision_accuracy": 1.0,
+  "coverage_status_counts": {
+    "inside_full_envelope": 1,
+    "near_P95_within_2pct": 1,
+    "qualitative_blind_match": 1,
+    "inside_P5_P95": 1
+  },
+  "independent_load_transfer_bridge": {
+    "mechanical_mm": 11.666666666666666,
+    "restrained_thermal_movement_mm": 0.6984757723327052,
+    "tm_head_movement_mm": 12.36514243899937
+  },
+  "claim_boundary": "external validation includes quantitative coverage and blind qualitative decision checks for selected published checks, but it is not calibrated field back-analysis"
+}

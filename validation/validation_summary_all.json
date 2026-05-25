@@ -1,0 +1,17 @@
+{
+  "validation_layers": 6,
+  "open_evidence_only": true,
+  "field_backanalysis_case": "lambeth_2009",
+  "backanalysis_NRMSE": 0.0391365132154957,
+  "backanalysis_MAPE_percent": 1.727272727272729,
+  "backanalysis_bias_mm": -0.06,
+  "backanalysis_coverage_fraction": 1.0,
+  "backanalysis_sign_agreement": 1.0,
+  "backanalysis_spearman_rho": 0.9746794344808964,
+  "blind_decision_cases": 6,
+  "blind_decision_accuracy_match_or_partial": 1.0,
+  "blind_decision_accuracy_strict": 0.8333333333333334,
+  "false_safe_agreement": 1.0,
+  "load_transfer_same_class_fraction": 1.0,
+  "claim_boundary": "open-source validation package supports screening and classification behavior; it is not a site-calibrated full-field THM validation and does not include 24 blind cases"
+}

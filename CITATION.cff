@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated manuscript."
+title: "Thermo-Hydro-Mechanical Settlement Screening of Energy Piles for Civil Infrastructure Foundations"
+authors:
+  - family-names: "Montufar Chiriboga"
+    given-names: "Gabriel Jesus"
+    orcid: "https://orcid.org/0000-0003-3392-3728"
+year: 2026
+repository-code: "https://github.com/gabrielmontufar/article-121-thm-energy-pile-screening"
+license: "MIT"
+abstract: "Reproducible Python benchmark, validation scripts, theory checks and generated data for a THM settlement screening study of energy piles."

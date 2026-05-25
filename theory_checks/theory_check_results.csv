@@ -1,0 +1,9 @@
+check_id,quantity,analytical_value,model_value,unit,relative_error_percent,tolerance_percent,pass_fail
+free_thermal_expansion,Delta L,1.6,1.6,mm,0.0,1.0,PASS
+fully_restrained_thermal_force,N_T,1206.3715789784808,1206.3715789784808,kN,0.0,1.0,PASS
+elastic_axial_settlement,s=N/k,3.978873577297383,3.978873577297383,mm,0.0,1.0,PASS
+hydraulic_exponential_decay,p(t),10.826822658929016,10.817799053608919,kPa,0.08334490740600872,5.0,PASS
+temperature_increases_THM_demand,monotonicity,1.0,1.0,logical,0.0,0.0,PASS
+service_limit_reduces_THM_ratio,monotonicity,1.0,1.0,logical,0.0,0.0,PASS
+drainage_reduces_residual_pressure,monotonicity,1.0,1.0,logical,0.0,0.0,PASS
+restraint_increases_thermal_force,monotonicity,1.0,1.0,logical,0.0,0.0,PASS

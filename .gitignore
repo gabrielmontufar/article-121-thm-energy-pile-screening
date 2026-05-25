@@ -1,0 +1,19 @@
+# Manuscript submission files are kept local and are not published in the code repository.
+*.docx
+*.pdf
+*.zip
+ASCE IJG submission checklist.txt
+MRNB100_closure_audit.md
+backup_before_github_links_*/
+
+# Local execution artifacts.
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.tmp
+~$*
+
+# Windows metadata.
+Thumbs.db
+desktop.ini

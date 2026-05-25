@@ -1,0 +1,5 @@
+validation_layer,case_count,metric,value,status
+V5 field-scale back-analysis,5,NRMSE,0.0391365132154957,pass
+V6 blind decision checks,6,decision accuracy match-or-partial,1.0,pass
+Independent load-transfer comparator,3,same class fraction,1.0,pass
+External coverage checks,4,non-outside coverage fraction,1.0,pass

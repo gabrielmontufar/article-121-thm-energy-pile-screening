@@ -1,0 +1,9 @@
+case_id,source,year,evidence_type,used_for_calibration,used_for_backanalysis,used_for_blind_check,used_for_comparator,open_source_url,evidence_note
+lambeth_2009,Bourne-Webb et al.,2009,field-scale energy-pile test,no,yes,no,yes,https://www.slideshare.net/slideshow/the-effects-of-heating-and-cooling-energy-piles-under-working-load-at-lambeth-college-uk/6102413,Public text reports Lambeth pile-head movements under maintained working load and thermal cycles.
+amis_2008,Amis et al.,2008,conference field-trial summary,no,yes,no,no,https://www.onetunnel.org/documents/the-effects-of-heating-and-cooling-energy-piles-under-working-load-at-lambeth-college-uk,Open abstract confirms the Lambeth heating/cooling pile test under working load.
+markiewicz_2024,Markiewicz et al.,2024,field investigation,no,no,yes,no,10.1016/j.gete.2024.100605,Millimetric field-scale thermal-head-movement coverage check.
+feng_2024,Feng et al.,2024,full-scale field plus analytical load-transfer,no,no,yes,yes,10.1016/j.compgeo.2024.106147,Published coupling omission underestimation of pile-head settlement by nearly 48.8%.
+liu_2025,Liu et al.,2025,field and centrifuge supported THM framework,no,no,yes,no,10.1016/j.compgeo.2025.107332,Recent THM framework validated against field and centrifuge evidence.
+rafai_2025,Rafai et al.,2025,full-scale cyclic thermal loading,no,no,yes,no,10.1007/s11440-025-02556-4,Open article reports load-dependent cyclic pile-head settlement and normalized settlement.
+pham_2025,Pham et al.,2025,practical energy-pile design method,no,no,yes,yes,https://www.citedrive.com/en/discovery/a-unified-soilstructure-interaction-method-for-loadsettlement-design-of-energy-piles/,Open metadata supports load-settlement design comparison relevance.
+ouyang_2011,Ouyang et al.,2011,numerical load-transfer back-analysis,no,no,yes,yes,10.1061/41165(397)46,Open abstract reports good agreement of hybrid load-transfer back-analysis with Lambeth field test.

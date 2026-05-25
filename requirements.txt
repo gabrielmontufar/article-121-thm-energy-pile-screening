@@ -1,0 +1,5 @@
+matplotlib
+numpy
+pandas
+python-docx
+pywin32; platform_system == "Windows"

@@ -1,0 +1,5 @@
+case_id,source_id,observable,observed_low,observed_high,observed_mid,unit,benchmark_metric,benchmark_p05,benchmark_p50,benchmark_p95,normalized_error_percent_vs_p50,coverage_status,expected_decision,blind_decision_match
+M24_head_movement,markiewicz_2024,thermal pile-head movement magnitude,1.6,2.5,2.05,mm,tm_increment_mm,0.5530913831183563,0.8859871884711144,1.4072711350664375,-56.78111275750661,inside_full_envelope,THM relevant,True
+F24_settlement_amplification,feng_2024,underestimation when coupling is ignored,48.8,48.8,48.8,percent,max_error_if_pore_pressure_ignored_percent,9.067106194255922,24.87532224958459,48.25293472057304,-49.02597899675289,near_P95_within_2pct,false-safe risk plausible,True
+R25_cyclic_decision,rafai_2025,load-dependent cyclic displacement regime,,,,qualitative,decision_class,,,,,qualitative_blind_match,THM recommended,True
+R25_normalized_head_settlement,rafai_2025,normalized pile-head settlement after ten thermal cycles,0.124,0.124,0.124,percent,max_THM_settlement_percent_pile_length,0.06060205544760588,0.09400561909851049,0.1427903839931926,-24.189016856039927,inside_P5_P95,THM recommended,True

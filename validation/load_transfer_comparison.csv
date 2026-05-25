@@ -1,0 +1,4 @@
+case_id,proposed_screening_mm,load_transfer_mm,difference_percent,proposed_class,load_transfer_class,same_class
+lambeth_2009,4.8,3.3,-31.25,safe,safe,True
+synthetic_median,16.921011437731885,15.567330522713334,-8.0,unsafe,unsafe,True
+feng_2024,48.8,41.5,-14.959016393442624,false-safe risk,false-safe risk,True

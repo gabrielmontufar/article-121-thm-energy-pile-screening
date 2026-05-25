@@ -1,0 +1,2 @@
+case_id,validation_mode,variable,n_points,NRMSE,MAPE_percent,bias_mm,coverage_fraction,sign_agreement,spearman_rho,status,boundary
+lambeth_2009,field_scale_open_backanalysis,head_displacement,5,0.0391365132154957,1.727272727272729,-0.06000000000000005,1.0,1.0,0.9746794344808963,pass,"open transcribed event points, not dense curve digitization"

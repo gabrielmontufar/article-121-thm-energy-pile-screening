@@ -1,0 +1,5 @@
+classification,condition,cases,fraction,median_eta_TM,median_eta_THM
+Safe-Safe,eta_TM < 1 and eta_THM < 1,333,0.333,0.6521844088489762,0.8472019402979057
+Unsafe-Unsafe,eta_TM >= 1 and eta_THM >= 1,275,0.275,1.157649977100295,1.4768100128422528
+False Safe,eta_TM < 1 and eta_THM >= 1,392,0.392,0.8513417996219879,1.1690320767835205
+False Alarm,eta_TM >= 1 and eta_THM < 1,0,0.0,,

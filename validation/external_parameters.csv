@@ -1,0 +1,11 @@
+case_id,parameter,value,min,max,unit,source,assumption_level,justification
+lambeth_2009,pile_length,20.0,18.0,22.0,m,open secondary summaries,moderate,Representative Lambeth bored pile length used only for screening back-analysis.
+lambeth_2009,pile_diameter,0.60,0.55,0.61,m,MDPI Lambeth case summary,moderate,Open summary reports nominal diameter 610 mm through upper layers and 550 mm in London clay.
+lambeth_2009,working_load,1200.0,1200.0,1200.0,kN,public Lambeth test summary,low,Public table reports SWL of 1200 kN.
+lambeth_2009,deltaT_cooling,15.0,14.0,16.0,C,public Lambeth test summary,low,Open text reports pile cooled by about 14-16 C over first 7 days.
+lambeth_2009,deltaT_heating,12.0,10.0,15.0,C,public Lambeth test summary,moderate,Heating stage inferred as service-scale opposite thermal phase.
+lambeth_2009,restraint_ratio,0.30,0.15,0.45,dimensionless,screening assumption,high,Load-controlled head free to move; restraint is lower than fixed-head condition.
+lambeth_2009,vertical_stiffness,500000.0,400000.0,650000.0,kN/m,back-analysis from 1200 kN and 2.4 mm,moderate,Chosen to recover the open mechanical load-settlement point.
+lambeth_2009,service_limit,10.0,8.0,15.0,mm,screening assumption,high,Serviceability limit used for decision classification only.
+feng_2024,settlement_underestimation,48.8,48.8,48.8,percent,publisher abstract,low,Published coupling-omission underestimation value used for false-safe coverage.
+rafai_2025,normalized_head_settlement,0.124,0.124,0.124,percent,open article text,low,Published normalized head settlement after ten thermal cycles.

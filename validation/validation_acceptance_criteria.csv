@@ -1,0 +1,9 @@
+validation_item,metric,acceptance_criterion
+field_scale_backanalysis,NRMSE,<=0.35
+field_scale_backanalysis,MAPE,<=35 percent
+field_scale_backanalysis,bias,reported and must not reverse serviceability interpretation
+field_scale_backanalysis,coverage,observations inside lower-upper envelope or near-bound with stated uncertainty
+trend_check,sign_agreement,>=80 percent
+blind_decision,decision_accuracy,>=75 percent
+independent_comparator,same_serviceability_class,>=80 percent
+false_safe_check,false_safe_agreement,reported for every relevant external case

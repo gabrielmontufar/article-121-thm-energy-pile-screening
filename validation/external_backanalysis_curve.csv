@@ -1,0 +1,6 @@
+case_id,variable,x_value,observed,predicted_lower,predicted_best,predicted_upper,unit,digitized,digitization_uncertainty
+lambeth_2009,head_displacement,mechanical_working_load,2.4,1.8499999999999999,2.4,2.95,mm,no,0.1
+lambeth_2009,head_displacement,end_cooling,4.8,4.25,4.8,5.35,mm,no,0.2
+lambeth_2009,head_displacement,end_heating,2.8,2.2459999999999996,2.796,3.346,mm,no,0.2
+lambeth_2009,head_displacement,daily_cooling,4.4,3.6900000000000004,4.24,4.79,mm,no,0.2
+lambeth_2009,head_displacement,daily_heating,2.8,2.114,2.6639999999999997,3.2139999999999995,mm,no,0.2

@@ -1,0 +1,7 @@
+case_id,source,used_for_calibration,predicted_class,published_evidence,match_status,notes,false_safe_relevant
+markiewicz_2024,Markiewicz et al.,no,THM recommended,millimetric thermal head movement observed,match,field movement scale requires coupled follow-up,no
+feng_2024,Feng et al.,no,false-safe risk,soil coupling omission can underestimate head settlement,match,directly supports false-safe screening,yes
+liu_2025,Liu et al.,no,THM mandatory,field and centrifuge supported THM framework reports THM relevance,match,independent recent THM framework,no
+rafai_2025,Rafai et al.,no,cyclic accumulation relevant,load-dependent cyclic settlement observed,match,supports cyclic serviceability flag,yes
+pham_2025,Pham et al.,no,load-settlement design affected,practical unified design method proposed for energy piles,partial,metadata supports need for energy-pile-specific settlement screen,no
+ouyang_2011,Ouyang et al.,no,load-transfer comparator relevant,load-transfer back-analysis agrees with Lambeth field test,match,independent method supports comparator choice,no
