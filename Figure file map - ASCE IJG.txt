@@ -1,0 +1,19 @@
+Figure file map for ASCE IJG submission - ASCE 30-page split version
+
+Main manuscript figure files:
+Figure_01_civil_infrastructure_THM_framework.png <- original Figure 1
+Figure_02_THM_time_histories.png <- original Figure 2
+Figure_03_settlement_model_comparison.png <- original Figure 3
+Figure_04_serviceability_envelope.png <- original Figure 5 renumbered as main Figure 4
+
+Supplementary figure files:
+Figure_S01_sensitivity_ranking.png <- original Figure 4
+Figure_S02_parametric_serviceability_matrix.png <- original Figure 6
+Figure_S03_global_sensitivity.png <- original Figure 7
+Figure_S04_false_safe_classification.png <- original Figure 8
+Figure_S05_THM_serviceability_regime_map.png <- original Figure 9
+Figure_S06_external_backanalysis_lambeth.png <- original Figure 10
+Figure_S07_blind_decision_checks.png <- original Figure 11
+Figure_S08_validation_external_metrics.png <- original Figure 12
+Figure_S09_validation_decision_classes.png <- original Figure 13
+Figure_S10_convergence_check.png <- original Figure 14
