@@ -1,0 +1,11 @@
+Study,Evidence base,Main emphasis,Gap relative to this paper
+Brandl (2006),Design synthesis,Thermo-active ground structures,No reproducible false-safe screening matrix
+Bourne-Webb et al. (2009),Field test,Thermal-cycle pile response,No open decision-normalized screening benchmark
+Knellwolf et al. (2011),Design analysis,Heat-exchanger pile calculation,No TM-vs-THM false-safe classification
+Garbellini and Laloui (2021),Thermal-stress model,Energy-pile stress mechanics,No lightweight serviceability regime map
+Fang et al. (2022),Group-response study,Cyclic thermal operation,No open false-safe settlement screen
+Markiewicz et al. (2024),Field investigation,Partially activated energy pile,Not a generic reproducible screening protocol
+Feng et al. (2024),Load-transfer/field benchmark,Soil-coupling effects on head settlement,No open false-safe serviceability matrix
+Liu et al. (2025),THM prediction model,Partially saturated soils,No civil-serviceability false-safe gate
+Rafai et al. (2025),Full-scale cyclic thermal loading,Load-dependent displacement accumulation,Not a normalized decision benchmark
+Current study,Reproducible benchmark,False-safe matrix and regime indices,Screening method only; not a calibrated final-design model

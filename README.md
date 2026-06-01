@@ -35,5 +35,4 @@ Code is released under `LICENSE_CODE_MIT.txt`.
 Author-generated data, metadata, figures and supplementary text are released under `LICENSE_DATA_CC_BY_4_0.txt`.
 ## ASCE 30-Page Submission Formatting
 
-This submission-ready package uses a split format: the main manuscript is double-spaced and kept within the ASCE 30-page technical-paper limit, while extended explanatory text, extended tables and extended figures are provided in `Supplementary Material - ASCE IJG.docx`. The split is editorial/formatting only and does not change the numerical benchmark outputs.
-
+This submission-ready package uses a split format: the main manuscript is double-spaced, self-contained for scientific review, and kept within the ASCE 30-page technical-paper limit. The main manuscript reports the core formulation, base-case results, false-safe decision result, validation metrics, external checks, convergence interpretation and limitations. Extended explanatory text, full audit tables, complete supplementary figures and reproducibility details are provided in `Supplementary Material.docx`. The split is editorial/formatting only and does not change the numerical benchmark outputs.

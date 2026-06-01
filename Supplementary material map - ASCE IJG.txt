@@ -3,11 +3,12 @@ Supplementary material map - ASCE IJG ASCE 30-page split version
 Main manuscript retained:
 Tables 1-4: nomenclature, civil-infrastructure scenarios, dimensionless groups, base-case results.
 Figures 1-4: framework, time histories, model comparison, serviceability envelope.
+Main-text summaries retained: 1000-case exceedance statistics, false-safe classification, validation hierarchy, predefined acceptance criteria, Lambeth back-analysis metrics, independent load-transfer comparison, blind external checks, external coverage checks, order-of-magnitude checks and convergence interpretation.
 
 Moved to Supplementary Material:
 Tables S1-S13: literature-frontier matrix, limiting-case checks, mathematical consistency checks, parametric statistics, decision classification, validation hierarchy, acceptance criteria, external back-analysis metrics, independent comparator, blind checks, validation summary, external coverage and order-of-magnitude checks.
 Figures S1-S10: sensitivity ranking, parametric matrix, global sensitivity, false-safe classification, regime map, Lambeth back-analysis, blind decision checks, validation metrics, external decision status and convergence check.
-S2: extended explanatory prose moved from the main manuscript for length compliance.
+S2: extended explanatory prose retained for auditability and detailed review. The main manuscript remains self-contained for the core scientific claim.
 
 Supplementary formatting update:
 The supplementary DOCX was harmonized with the main manuscript format: Times New Roman 12 pt, double-spaced body text, black bold section headings, line numbering, letter page layout, table style consistent with the main manuscript, and non-bold captions. Immediate lead-in text was added before every supplementary table and every supplementary figure.
